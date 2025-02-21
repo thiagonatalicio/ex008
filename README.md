@@ -1,2 +1,2 @@
 # ex008
- aula 8
+ Aula 8, formatação de textos. 
